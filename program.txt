@@ -1,0 +1,13 @@
+long long time; // ago in a galaxy far far away
+stop(); // hammertime
+
+def leppard():
+	pass
+
+private int shorty;
+public int getShorty();
+
+private double cheeseburger;
+
+Exception up = new Exception();
+throw up;
